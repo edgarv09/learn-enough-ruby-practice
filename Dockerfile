@@ -1,4 +1,4 @@
-From rubylang/ruby:2.7.4-bionic as base
+FROM rubylang/ruby:2.7.4-bionic as base
 
 FROM base as builder
 
